@@ -18,7 +18,7 @@ An App that helps people have presbyopia who want to reading the expiry date by 
 ## Features ✨
 
 > - Scan any date.🗓️
-> - reads the dates outloud aswell as displaying it to the user.🎤
+> - Reads the dates outloud aswell as displaying it to the user.🎤
 
 ## Requierements 🚧
 
