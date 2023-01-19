@@ -32,7 +32,7 @@ An App that helps people have presbyopia who want to reading the expiry date by 
 <img width="634" alt="Screenshot 1444-06-18 at 10 07 12 PM" src="https://user-images.githubusercontent.com/90031791/211896019-ea0d4eb8-6482-4e19-a8e9-e23701616e6d.png">
 
 ## challange summery ⚜️ 
-<i<img width="1512" alt="eagle I app" src="https://user-images.githubusercontent.com/118130724/213391591-b6b73255-9daf-4052-aaa5-b0717b16b3c9.png">
+<img width="1512" alt="eagle I app" src="https://user-images.githubusercontent.com/118130724/213391591-b6b73255-9daf-4052-aaa5-b0717b16b3c9.png">
 
 
 
